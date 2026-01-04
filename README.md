@@ -7,4 +7,7 @@ The components:
 - HoverBoard Motors
 - ZS-X11H
 
-![20251225_200536](https://github.com/user-attachments/assets/c3693397-fed3-4ad3-81ac-a77d8cfc4ff6)
+![v1](https://github.com/user-attachments/assets/5183eefd-307e-4d02-b0d3-3eda0b414396)
+
+https://github.com/user-attachments/assets/0e671926-3e2d-4f82-900a-38d5c4cbb91d
+
