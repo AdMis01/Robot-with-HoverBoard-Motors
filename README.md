@@ -8,7 +8,7 @@ Connect PIN POWER on the controller ZS-X11H to the pin 9/10 on the Arduino UNO. 
 
 <img width="500" height="343" alt="Bez tytułu1" src="https://github.com/user-attachments/assets/8b790871-e6a6-454b-842a-c018a6ae23aa" />
 
-```
+```c++
 void setup() {
   pinMode(9,OUTPUT);
   pinMode(10,OUTPUT);
@@ -27,7 +27,9 @@ void loop() {
 
 #### Arduino UNO code:
 
-```
+Arduino retrieves data that is sent serially from the computer via Python. W - moves forward, S - stops the motors.
+
+```c++
 int speedL = 0;
 int speedR = 0;
 
@@ -62,13 +64,15 @@ void loop() {
 ```
 #### Python code 
 
+Python responds to two buttons being pressed (W and S) and sends them to Arduino.
+
 Libraries for the project:
 
-```
+```bash
 pip install pyserial opencv-python keyboard
 ```
 
-```
+```python
 import serial
 import time
 import keyboard
@@ -96,6 +100,17 @@ cap.release()
 cv2.destroyAllWindows()
 arduino.close()
 ```
+
+### Webcam operation
+
+```
+cap = cv2.VideoCapture(0)
+ret, frame = cap.read()
+if ret:
+  cv2.imshow("Camera", frame)
+```
+
+
 
 ## First version (V1)
 The components:
