@@ -114,12 +114,21 @@ if ret:
 
 <img width="638" height="507" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/a5401ac7-324b-42b3-b448-aab2bb6b68fb" />
 
-
 ## First version (V1)
-The components:
+
+Manual control of the robot using a remote control 
+
+### The components:
 - Esp32
 - HoverBoard Batery
 - HoverBoard Motors
 - ZS-X11H
 
 ![v1](https://github.com/user-attachments/assets/5183eefd-307e-4d02-b0d3-3eda0b414396)
+
+### The remote controler
+
+Code: V1 > code > machineN24
+
+![tt](https://github.com/user-attachments/assets/2508338e-3447-4209-990a-106b6cd8019b)
+
