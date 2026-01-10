@@ -124,11 +124,16 @@ Manual control of the robot using a remote control
 - HoverBoard Motors
 - ZS-X11H
 
+### The robot
+
+Code: V1 > code > machineN24
+
 ![v1](https://github.com/user-attachments/assets/5183eefd-307e-4d02-b0d3-3eda0b414396)
+![dd](https://github.com/user-attachments/assets/f49454c9-334c-4744-bb9e-50d8f005ad3a)
 
 ### The remote controler
 
-Code: V1 > code > machineN24
+Code: V1 > code > pilotN24
 
 ![tt](https://github.com/user-attachments/assets/2508338e-3447-4209-990a-106b6cd8019b)
 
