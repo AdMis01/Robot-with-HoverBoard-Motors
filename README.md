@@ -128,7 +128,7 @@ Manual control of the robot using a remote control
 
 Code: V1 > code > machineN24
 
-![v1](https://github.com/user-attachments/assets/5183eefd-307e-4d02-b0d3-3eda0b414396)
+![v1](https://github.com/user-attachments/assets/f0c2ee19-ac70-4349-8257-0c1c611a92cc)
 ![dd](https://github.com/user-attachments/assets/f49454c9-334c-4744-bb9e-50d8f005ad3a)
 
 ### The remote controler
