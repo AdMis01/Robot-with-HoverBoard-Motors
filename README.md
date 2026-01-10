@@ -1,4 +1,4 @@
-# Robot with HoverBoard Motors
+# 🤖 Robot with HoverBoard Motors
 
 ## First configuration and testing
 
@@ -126,14 +126,14 @@ Manual control of the robot using a remote control
 
 ### The robot
 
-Code: V1 > code > machineN24
+📁 Code: V1 > code > machineN24
 
 ![v1](https://github.com/user-attachments/assets/f0c2ee19-ac70-4349-8257-0c1c611a92cc)
-![dd](https://github.com/user-attachments/assets/f49454c9-334c-4744-bb9e-50d8f005ad3a)
+![dd](https://github.com/user-attachments/assets/f6f5caa7-fb98-475e-8aa2-db196b2737f2)
 
 ### The remote controler
 
-Code: V1 > code > pilotN24
+📁 Code: V1 > code > pilotN24
 
 ![tt](https://github.com/user-attachments/assets/2508338e-3447-4209-990a-106b6cd8019b)
 
