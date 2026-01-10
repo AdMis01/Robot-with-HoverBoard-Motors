@@ -103,6 +103,8 @@ arduino.close()
 
 ### Webcam operation
 
+Testing the Webcam
+
 ```
 cap = cv2.VideoCapture(0)
 ret, frame = cap.read()
@@ -110,6 +112,7 @@ if ret:
   cv2.imshow("Camera", frame)
 ```
 
+<img width="638" height="507" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/a5401ac7-324b-42b3-b448-aab2bb6b68fb" />
 
 
 ## First version (V1)
