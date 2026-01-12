@@ -137,3 +137,15 @@ Manual control of the robot using a remote control
 
 ![tt](https://github.com/user-attachments/assets/2508338e-3447-4209-990a-106b6cd8019b)
 
+## Second version (V2)
+
+By using OpenCV, it recognizes whether an obstacle is detected in one of the three zones on the camera by recognizing darker objects, which are then avoided by the vehicle.
+
+### The pythone code
+
+📁 Code: V2 > code
+
+### The Arduino UNO (vehicle) code
+
+📁 Code: V2 > code 
+
