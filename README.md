@@ -143,9 +143,15 @@ By using OpenCV, it recognizes whether an obstacle is detected in one of the thr
 
 ### 🐍 The pythone code
 
-📁 Code: V2 > code
+libraries:
+
+```bash
+pip install pyserial keyboard opencv-python numpy
+```
+
+📁 Code: V2 > Python 
 
 ### 🤖 The Arduino UNO (vehicle) code 🚘
 
-📁 Code: V2 > code 
+📁 Code: V2 > ArduinoUNO 
 
