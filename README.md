@@ -167,7 +167,7 @@ pip install pyserial keyboard opencv-python numpy
 
 A preview from the test showing how the automatic robot control worked. Unfortunately, this idea is not very good for avoiding obstacles because, as you can see, at the end it detected the carpet and did not continue.
 
-https://github.com/user-attachments/assets/86a7cc51-fcfd-46f2-a3cf-fb0ac043b0a5
+https://github.com/user-attachments/assets/eedea7e1-66ea-43c4-b31b-0bb3bea569aa
 
 ### Overall view
 
