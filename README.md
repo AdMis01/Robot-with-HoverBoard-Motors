@@ -169,4 +169,8 @@ A preview from the test showing how the automatic robot control worked. Unfortun
 
 https://github.com/user-attachments/assets/86a7cc51-fcfd-46f2-a3cf-fb0ac043b0a5
 
+### Overall view
+
+https://github.com/user-attachments/assets/5f682e4c-d48a-4e8f-ad86-da51cfceca4d
+
 
