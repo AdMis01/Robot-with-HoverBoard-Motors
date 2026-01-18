@@ -163,3 +163,8 @@ pip install pyserial keyboard opencv-python numpy
 
 📁 Code: V2 > ArduinoUNO 
 
+
+
+https://github.com/user-attachments/assets/86a7cc51-fcfd-46f2-a3cf-fb0ac043b0a5
+
+
