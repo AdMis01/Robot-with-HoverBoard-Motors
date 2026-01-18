@@ -163,7 +163,9 @@ pip install pyserial keyboard opencv-python numpy
 
 📁 Code: V2 > ArduinoUNO 
 
+### View of testing in action
 
+A preview from the test showing how the automatic robot control worked. Unfortunately, this idea is not very good for avoiding obstacles because, as you can see, at the end it detected the carpet and did not continue.
 
 https://github.com/user-attachments/assets/86a7cc51-fcfd-46f2-a3cf-fb0ac043b0a5
 
