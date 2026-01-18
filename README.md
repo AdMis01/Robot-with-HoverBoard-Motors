@@ -3,7 +3,7 @@
 ## Plan which obstacle avoidance variants are to be implemented:
 - Manual obstacle avoidance ✅
 - Obstacle detection from a 2D image ✅
-- Ultrasonic sensor (HC-SR04) for obstacle detection ✅
+- Ultrasonic sensor (HC-SR05) for obstacle detection ✅
 - Obstacle detection using a depth camera
 - Obstacle detection using machine learning (CNN)
 - SENSOR FUSION (2D camera + ultrasound)
