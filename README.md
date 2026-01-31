@@ -173,4 +173,9 @@ https://github.com/user-attachments/assets/eedea7e1-66ea-43c4-b31b-0bb3bea569aa
 
 https://github.com/user-attachments/assets/5f682e4c-d48a-4e8f-ad86-da51cfceca4d
 
+## Third version (V3)
+
+Using ultrasonic sensors to avoid obstacles.
+
+![1](https://github.com/user-attachments/assets/cc721c6e-e6b0-4d55-94c6-75290ea524c6)
 
