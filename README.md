@@ -175,7 +175,13 @@ https://github.com/user-attachments/assets/5f682e4c-d48a-4e8f-ad86-da51cfceca4d
 
 ## Third version (V3)
 
-Using ultrasonic sensors to avoid obstacles.
+Using ultrasonic sensors(HC-SR05) to avoid obstacles.
 
 ![1](https://github.com/user-attachments/assets/cc721c6e-e6b0-4d55-94c6-75290ea524c6)
+![2](https://github.com/user-attachments/assets/fb5325ce-3471-45b3-8eb6-b66ed989cd59)
 
+### Model
+
+Model for holding the HC-SR05
+
+<img width="450" height="401" alt="czujnik" src="https://github.com/user-attachments/assets/24311a6e-7374-4ffd-8f67-8cc99ee99352" />
